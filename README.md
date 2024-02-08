@@ -7,7 +7,6 @@ Welcome to the Shopping List Application! This Python script allows users to cre
 - Features
 - How to Use
 - Future Plans
-- License
 
 ## Features
 
